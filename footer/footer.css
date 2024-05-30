@@ -1,0 +1,10 @@
+.footer{
+    border: 1px solid black;
+    max-width: 375px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer h1{
+    font-size: 20px;
+}
